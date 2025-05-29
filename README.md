@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mojahidul Islam
 
-<!--
-**hrobin485/hrobin485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate **MERN Stack Developer** from Rajshahi, Bangladesh  
+💻 Love to build responsive and dynamic web  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- JavaScript, React, Node.js, Express, MongoDB
+- Firebase, Tailwind CSS, Git & GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- TypeScript, Next.js
+
+## 📫 Contact Me
+- 📧 Email: hrobin485@gmail.com
+- 🌐 Portfolio: https://dynamic-donut-6abc0e.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/mojahidul-islam143/
+  
+
+
+
