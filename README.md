@@ -23,19 +23,6 @@ Problem-solving, Teamwork, Communication, Time Management, Quick Learner, Leader
 
 ---
 
-## 💼 Projects
-
-**🚀 StudyHive – Online Group Study Platform**
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT
-**🔗 Live Site | Client Code | Server Code**
-A platform where students can create and join study groups, submit assignments, and get feedback in a collaborative environment.
-
-💡 CrowdFunding – Donation-Based Campaign Platform
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT
-🔗 Live Site | Client Code | Server Code
-A donation-based web application where users can create fundraising campaigns, donate to others, and manage their contributions with authentication and protected routes. 
----
-
 ## 🎓 Education
 
 **B.Sc. in Mathematics**  
