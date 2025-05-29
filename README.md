@@ -15,25 +15,23 @@ A passionate and committed Junior MERN Stack Developer with a solid foundation i
 
 ## 🛠️ Skills
 
-### ⚙️ Technical Skills:
+ ⚙️ Technical Skills:
 JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, Tailwind CSS, HTML5, CSS3, Firebase, Git, GitHub, JWT, REST API, Stripe, Postman
 
-### 🤝 Interpersonal Skills:
+🤝 Interpersonal Skills:
 Problem-solving, Teamwork, Communication, Time Management, Quick Learner, Leadership
 
 ---
 
 ## 💼 Projects
 
-### 🚀 StudyHive – Online Group Study Platform  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT  
-🔗 [Client Code](#) | [Server Code](#)  
+ 🚀 StudyHive – Online Group Study Platform  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT    
 **Overview:** A platform for students to create/join study groups, submit assignments & get feedback  
 ---
 
-### 💡 CrowdFunding – Donation-Based Campaign Platform  
+ 💡 CrowdFunding – Donation-Based Campaign Platform  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT  
-🔗 [Client Code](#) | [Server Code](#)  
 **Overview:** Users can create fundraising campaigns and donate to others with authentication and protected routes  
 ---
 
