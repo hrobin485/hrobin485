@@ -24,16 +24,15 @@ Problem-solving, Teamwork, Communication, Time Management, Quick Learner, Leader
 ---
 
 ## 💼 Projects
+🚀 StudyHive – Online Group Study Platform
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT
+🔗 Live Site | Client Code | Server Code
+A platform where students can create and join study groups, submit assignments, and get feedback in a collaborative environment.
 
-🚀 StudyHive – Online Group Study Platform  
-Tech Stack: React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT  
-🔗[LiveLink](https://study-hive-80e6f.web.app/) | [Client Code](https://github.com/hrobin485/A-11-Client-Study-hive) | [Server Code](https://github.com/hrobin485/A-11-server-study-hive)  
-Overview: A platform for students to create/join study groups, submit assignments & get feedback  
----
- 💡 CrowdFunding – Donation-Based Campaign Platform  
-Tech Stack: React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT  
-🔗[LiveLink](https://winter-clothing-donation-9b03b.web.app/) [Client Code](https://github.com/hrobin485/A-10-client-crowd-funding) | [Server Code](https://github.com/hrobin485/A-10-server-crowd-funding)  
-Overview: Users can create fundraising campaigns and donate to others with authentication and protected routes  
+💡 CrowdFunding – Donation-Based Campaign Platform
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, JWT
+🔗 Live Site | Client Code | Server Code
+A donation-based web application where users can create fundraising campaigns, donate to others, and manage their contributions with authentication and protected routes. 
 ---
 
 ## 🎓 Education
